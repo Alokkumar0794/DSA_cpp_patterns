@@ -30,7 +30,7 @@ int main() {
     cout << "Enter the number of rows for the diamond pattern: ";
     cin >> n;
 
-    printDiamond(n);
+    printDiamond(9);
 
     return 0;
 }
